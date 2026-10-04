@@ -10,7 +10,7 @@ Thanks for helping to grow this list! New links are very welcome.
    Pull Request for you.
 
 If you do not want to edit files at all, just
-[open an issue](../../issues/new/choose) and suggest the link.
+[open an issue](https://github.com/cqham/awesome/issues/new/choose) and suggest the link.
 
 ## The git way
 

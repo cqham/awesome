@@ -19,7 +19,6 @@ Resources for learning and practicing CW.
 - [RealMorse (DJ0MZ)](https://dj0mz.darc.de/RealMorse/realmorse01.html)
 - [Ben's Best Bent Wire](https://bensbestbentwire.com/)
 - [Vail Morse](https://vailmorse.com/)
-- [Hear It Say It](https://training.vailmorse.com/hear-it-say-it/)
 - [Morse Invaders](https://morseinvaders.com/tx/)
 - [Morse Battleship](https://tools.hamradioduo.com/morse-battleship/)
 - [CW Checker](https://tools.hamradioduo.com/cw-checker/)

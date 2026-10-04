@@ -7,7 +7,7 @@ body:
     attributes:
       value: |
         Thanks! Fill this in and we will add the link for you.
-        If you prefer to add it yourself, see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md).
+        If you prefer to add it yourself, see [CONTRIBUTING.md](https://github.com/cqham/awesome/blob/main/CONTRIBUTING.md).
   - type: input
     id: url
     attributes:
