@@ -1,0 +1,52 @@
+name: Suggest a link
+description: Suggest a ham radio resource without editing any file
+title: "[link] "
+labels: ["new link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks! Fill this in and we will add the link for you.
+        If you prefer to add it yourself, see [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md).
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://example.com/
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: The name of the site or tool.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What is it?
+      description: A few words about what it does and why it is useful.
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Where does it belong?
+      options:
+        - CW — devices
+        - CW — publications
+        - CW — online learn
+        - Tools
+        - Somewhere new / not sure
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: The link works and needs no login or payment to open
+          required: true
+        - label: I checked it is not already in the list
+          required: true
