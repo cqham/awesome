@@ -26,3 +26,4 @@ Resources for learning and practicing CW.
 - [Morse ATC](http://morseatc.s3-website.eu-central-1.amazonaws.com/)
 - [Morse Walker](https://morsewalker.com/)
 - [Code Groups Trainer](https://hamshacktech.com/cw-tools/code-groups-trainer/)
+- [Morsle](https://morsle.fun/)
