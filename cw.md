@@ -17,6 +17,9 @@ Resources for learning, practicing and operating CW.
 | Daily Morse Code 'Scales' Sending Warm Up | Warm up routine before you key, by WR7Q | https://cwops.org/wp-content/uploads/2022/03/Everyday-Send-Code-WR7Q-ver.-7.pdf |
 | Daily Morse Code 'Scales' — web version | Same warm up, in the browser | https://cwops.org/wp-content/uploads/2024/08/Everyday-Send-Code-Web.htm |
 | CWops additional practice material | Curricula and drills from CW Academy | https://cwops.org/additional-practice/ |
+| Zen and the Art of Radiotelegraphy | Book by IK0YGJ on the mindset behind good CW | https://www.qsl.net/ik0ygj/enu/index.html |
+| FOC Guide to Morse Code Proficiency | Guide from the First Class CW Operators' Club, by G4IFB | https://www.g4ifb.com/FOC_Guide_to_Morse_Code_Proficiency.pdf |
+| Learning Morse Code — KN3B | Practical advice on how to start and keep going | http://kn3b.com/learning-cw-morse-code.html |
 | Poradnik CW — SP2MDS | CW guide in Polish | https://xtreme69.nazwa.pl/sp2mds/Poradnik-cw-SP2MDS.pdf |
 
 ## Online learn
@@ -33,8 +36,18 @@ Resources for learning, practicing and operating CW.
 | Ben's Best Bent Wire | Head copy practice with real words | https://bensbestbentwire.com/ |
 | Vail Morse | Practice and tools around the Vail adapter | https://vailmorse.com/ |
 | Code Groups Trainer | Random code group drills | https://hamshacktech.com/cw-tools/code-groups-trainer/ |
+| Koch method to learn Morse | Minimal Koch trainer, nothing to set up | https://stendec.io/morse/koch.html |
 | CW Checker | Records your sending and tells you how clean it is | https://tools.hamradioduo.com/cw-checker/ |
-| Morse Code Translator | Text to Morse and back | https://morsecodeworld.org/ |
+
+## Translators
+
+Text to Morse and back. These three overlap a lot — pick the one you like.
+
+| Name | What it is | Link |
+|---|---|---|
+| Morse Code Translator | Text to Morse and back in the browser | https://morsecodeworld.org/ |
+| Morse Code Decoder | Decodes text, audio files and photos | https://morsecodeworld.com |
+| Morse Translator | Both directions, with audio playback and speed control | https://morsetranslator.me |
 
 ## Games
 
@@ -58,6 +71,7 @@ Learning by playing. Good when drills get boring.
 | Koch Morse Trainer | Koch method trainer | Windows | Free | https://dm3mat.de/software/kochmorse |
 | Just Learn Morse Code | Koch and Farnsworth trainer | Windows | Free | https://justlearnmorsecode.com/ |
 | Morse Mania | 270 levels on your phone | Android, iOS | Paid | https://www.dong.world/2020/05/morse-mania/ |
+| IZ2UUF Koch CW Trainer | Koch trainer for Android, deeply configurable | Android | Free / Paid | https://play.google.com/store/apps/details?id=net.iz2uuf.cwkoch |
 
 Morse Mania in the stores:
 [Android](https://play.google.com/store/apps/details?id=net.countrymania.morse) ·
@@ -78,7 +92,18 @@ Morse Mania in the stores:
 | CW Club RBN Spotter | RBN filtered down to CW club members | https://rbn.telegraphy.de/ |
 | 3830 Scores | Report your CWT and other contest scores | https://3830scores.com/ |
 
+## Clubs
+
+| Name | What it is | Link |
+|---|---|---|
+| CWops | The CW Operators' Club. Runs CW Academy and the weekly CWT tests | https://cwops.org/ |
+| SKCC | Straight Key Century Club, for straight keys and bugs only | http://www.skccgroup.com/ |
+
 ## See also
 
 - [software.md](software.md) — logging, DX spotting, propagation and rig control
 - [tools.md](tools.md) — calculators and maps
+
+Some entries on this page come from
+[awesome-amateur-radio](https://github.com/mcaserta/awesome-amateur-radio) by
+Mirko Caserta (MIT licensed).

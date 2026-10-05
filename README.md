@@ -4,7 +4,7 @@ A collected list of ham radio resources.
 
 ## Contents
 
-- [CW (Morse code)](cw.md) — devices, books, online trainers, games, training software, decoders
+- [CW (Morse code)](cw.md) — devices, books, online trainers, translators, games, training software, decoders, clubs
 - [Software](software.md) — logging, DX spotting, propagation, rig control
 - [Tools](tools.md) — calculators, maps and other online tools
 
