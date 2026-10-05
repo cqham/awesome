@@ -4,7 +4,8 @@ Thanks for helping to grow this list! New links are very welcome.
 
 ## The easy way (no git needed)
 
-1. Open the file you want to change: [cw.md](cw.md) or [tools.md](tools.md).
+1. Open the file you want to change: [cw.md](cw.md), [software.md](software.md)
+   or [tools.md](tools.md).
 2. Click the pencil icon (**Edit this file**).
 3. Add your link, then click **Propose changes**. GitHub makes the fork and the
    Pull Request for you.
@@ -46,8 +47,15 @@ Rules:
 
 | File | Content |
 |---|---|
-| [cw.md](cw.md) | Morse code: keys and devices, books and papers, online trainers |
-| [tools.md](tools.md) | Calculators, maps and other online tools |
+| [cw.md](cw.md) | Anything CW specific: keys, books, online trainers, games, training software, decoders |
+| [software.md](software.md) | General ham software: logging, DX spotting, propagation, rig control |
+| [tools.md](tools.md) | Calculators, maps and other small online tools |
+
+Software entries also say the platform and the price, like this:
+
+```markdown
+- [Name](https://example.com/) — what it does. Windows, free
+```
 
 If nothing fits, open an issue and we will talk about a new file or section.
 

@@ -37,7 +37,15 @@ body:
         - CW — devices
         - CW — publications
         - CW — online learn
-        - Tools
+        - CW — games
+        - CW — training software
+        - CW — decoders
+        - CW — on air practice and scores
+        - Software — logging
+        - Software — DX spotting and alerts
+        - Software — propagation
+        - Software — rig control
+        - Tools — calculators and maps
         - Somewhere new / not sure
     validations:
       required: true
