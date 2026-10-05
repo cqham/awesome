@@ -42,6 +42,7 @@ CW specific software (trainers, decoders) lives in [cw.md](cw.md).
 | VOACAP Online | HF propagation prediction in the browser | Web | Free | https://www.voacap.com/ |
 | HamCAP | VOACAP with a friendly interface | Windows | Free | https://www.dxatlas.com/HamCap/ |
 | VOAProp | Another VOACAP front end | Windows | Free | https://www.g4ilo.com/voaprop.html |
+| voacapl | A port of VOACAP for Linux, run from the command line | Linux | Free | https://github.com/jawatson/voacapl |
 | HF+ Propagation Map | Live propagation map | Web | Free | https://hf.dxview.org/ |
 
 ## Rig control

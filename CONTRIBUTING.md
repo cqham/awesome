@@ -4,8 +4,8 @@ Thanks for helping to grow this list! New links are very welcome.
 
 ## The easy way (no git needed)
 
-1. Open the file you want to change: [cw.md](cw.md), [software.md](software.md)
-   or [tools.md](tools.md).
+1. Open the file you want to change: [cw.md](cw.md), [software.md](software.md),
+   [tools.md](tools.md) or [reference.md](reference.md).
 2. Click the pencil icon (**Edit this file**).
 3. Add your row, then click **Propose changes**. GitHub makes the fork and the
    Pull Request for you.
@@ -68,6 +68,7 @@ Rules:
 | [cw.md](cw.md) | Anything CW specific: keys, books, online trainers, games, training software, decoders |
 | [software.md](software.md) | General ham software: logging, DX spotting, propagation, rig control |
 | [tools.md](tools.md) | Calculators, maps and other small online tools |
+| [reference.md](reference.md) | Band plans and other documents you look up |
 
 If nothing fits, open an issue and we will talk about a new file or section.
 

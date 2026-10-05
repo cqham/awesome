@@ -48,6 +48,7 @@ body:
         - Software — propagation
         - Software — rig control
         - Tools — calculators and maps
+        - Reference — band plans
         - Somewhere new / not sure
     validations:
       required: true

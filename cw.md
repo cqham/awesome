@@ -18,6 +18,7 @@ Resources for learning, practicing and operating CW.
 | Daily Morse Code 'Scales' — web version | Same warm up, in the browser | https://cwops.org/wp-content/uploads/2024/08/Everyday-Send-Code-Web.htm |
 | CWops additional practice material | Curricula and drills from CW Academy | https://cwops.org/additional-practice/ |
 | Zen and the Art of Radiotelegraphy | Book by IK0YGJ on the mindset behind good CW | https://www.qsl.net/ik0ygj/enu/index.html |
+| Zen and the Art of Radiotelegraphy — PDF | The same book in one file | https://www.qsl.net/ik0ygj/enu/ZART_r20101008m.pdf |
 | FOC Guide to Morse Code Proficiency | Guide from the First Class CW Operators' Club, by G4IFB | https://www.g4ifb.com/FOC_Guide_to_Morse_Code_Proficiency.pdf |
 | Learning Morse Code — KN3B | Practical advice on how to start and keep going | http://kn3b.com/learning-cw-morse-code.html |
 | Poradnik CW — SP2MDS | CW guide in Polish | https://xtreme69.nazwa.pl/sp2mds/Poradnik-cw-SP2MDS.pdf |
@@ -103,6 +104,7 @@ Morse Mania in the stores:
 
 - [software.md](software.md) — logging, DX spotting, propagation and rig control
 - [tools.md](tools.md) — calculators and maps
+- [reference.md](reference.md) — band plans
 
 Some entries on this page come from
 [awesome-amateur-radio](https://github.com/mcaserta/awesome-amateur-radio) by
