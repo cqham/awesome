@@ -1,6 +1,8 @@
 # Tools
 
-Useful calculators, maps and other online tools.
+Calculators, maps and other small online tools.
 
-- [Coax cable calculator](https://olgierd.github.io/coaxcalculator/) — coaxial cable loss calculator
-- [Map of Polish hams](https://vhf.com.pl/mapa-krotkofalowcow) — locations of radio amateurs in Poland
+| Name | What it is | Link |
+|---|---|---|
+| Coax cable calculator | Coaxial cable loss calculator | https://olgierd.github.io/coaxcalculator/ |
+| Map of Polish hams | Locations of radio amateurs in Poland | https://vhf.com.pl/mapa-krotkofalowcow |

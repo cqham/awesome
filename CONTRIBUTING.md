@@ -7,11 +7,12 @@ Thanks for helping to grow this list! New links are very welcome.
 1. Open the file you want to change: [cw.md](cw.md), [software.md](software.md)
    or [tools.md](tools.md).
 2. Click the pencil icon (**Edit this file**).
-3. Add your link, then click **Propose changes**. GitHub makes the fork and the
+3. Add your row, then click **Propose changes**. GitHub makes the fork and the
    Pull Request for you.
 
 If you do not want to edit files at all, just
-[open an issue](https://github.com/cqham/awesome/issues/new/choose) and suggest the link.
+[open an issue](https://github.com/cqham/awesome/issues/new/choose) and suggest
+the link.
 
 ## The git way
 
@@ -27,21 +28,38 @@ git push -u origin add-my-link
 
 Then open a Pull Request against `main`.
 
-## Link format
+## Row format
 
-One line per link, in this shape:
+Every list is a Markdown table. Add one row at the **end** of the right table,
+and fill every column that table has.
+
+Most tables have three columns:
 
 ```markdown
-- [Name](https://example.com/) — short description
+| Name | What it is | Link |
+|---|---|---|
+| Morse Code Ninja | Huge set of practice audio, words and phrases | https://morsecode.ninja/ |
+```
+
+Software tables add **Platform** and **Price**, and logger tables also add
+**LoTW**:
+
+```markdown
+| Name | What it is | Platform | Price | LoTW | Link |
+|---|---|---|---|---|---|
+| Log4OM 2 | Full station log with digital mode integration | Windows | Free | Yes | https://www.log4om.com/ |
 ```
 
 Rules:
 
 - **Name** is the real name of the site or tool, not the bare URL.
-- The description is short (a few words) and says what it is. It may be left
-  out if the name already says everything.
-- Use an em dash (`—`) between the name and the description.
-- Add the link at the **end** of its section.
+- **What it is** is one short line saying what it does. Not marketing text.
+- **Link** is a bare URL, no `[...]()` around it. GitHub makes it clickable.
+- **Platform**: `Windows`, `Linux`, `macOS`, `Web`, `Android`, `iOS`, or a few
+  of them separated by commas.
+- **Price**: `Free`, `Paid`, or `Free / Paid` when there is both.
+- **LoTW**: `Yes`, `No`, or `Via integrations`.
+- Do not break the row over several lines. One row, one line.
 
 ## Where does my link go?
 
@@ -50,12 +68,6 @@ Rules:
 | [cw.md](cw.md) | Anything CW specific: keys, books, online trainers, games, training software, decoders |
 | [software.md](software.md) | General ham software: logging, DX spotting, propagation, rig control |
 | [tools.md](tools.md) | Calculators, maps and other small online tools |
-
-Software entries also say the platform and the price, like this:
-
-```markdown
-- [Name](https://example.com/) — what it does. Windows, free
-```
 
 If nothing fits, open an issue and we will talk about a new file or section.
 

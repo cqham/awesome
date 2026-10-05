@@ -7,7 +7,8 @@
 - [ ] The link works and opens without a login or paywall
 - [ ] It is not already in the list
 - [ ] It is about ham radio
-- [ ] It uses the format `- [Name](url) — short description`
-- [ ] It is added at the end of the right section
+- [ ] I added one table row, at the end of the right table
+- [ ] The row fills every column of that table (Platform / Price / LoTW where present)
+- [ ] The Link column is a bare URL, not `[text](url)`
 
 <!-- See CONTRIBUTING.md if anything above is unclear. Thanks! -->
