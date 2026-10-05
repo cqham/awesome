@@ -1,0 +1,5 @@
+# URLs the link checker cannot reach, even though they work in a browser.
+# Keep this file short, and add a reason for every line.
+
+# Does not answer requests from GitHub Actions runners (works fine elsewhere).
+https://justlearnmorsecode.com/

@@ -80,3 +80,7 @@ If nothing fits, open an issue and we will talk about a new file or section.
 
 A bot checks every Pull Request for dead links. If it fails, look at the log —
 it is usually a typo in the URL.
+
+If the bot reports a link that clearly works in your browser, the site is
+probably blocking GitHub's servers. Add it to [.lycheeignore](.lycheeignore)
+with a short reason.
