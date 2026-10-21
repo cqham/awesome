@@ -42,13 +42,14 @@ Resources for learning, practicing and operating CW.
 
 ## Translators
 
-Text to Morse and back. These three overlap a lot — pick the one you like.
+Text to Morse and back. These four overlap a lot — pick the one you like.
 
 | Name | What it is | Link |
 |---|---|---|
 | Morse Code Translator | Text to Morse and back in the browser | https://morsecodeworld.org/ |
 | Morse Code Decoder | Decodes text, audio files and photos | https://morsecodeworld.com |
 | Morse Translator | Both directions, with audio playback and speed control | https://morsetranslator.me |
+| Online Morse Code | Free browser-based Morse translator with audio, speed control and learning guides | https://onlinemorsecode.com/ |
 
 ## Games
 
