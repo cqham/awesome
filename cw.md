@@ -39,6 +39,7 @@ Resources for learning, practicing and operating CW.
 | Code Groups Trainer | Random code group drills | https://hamshacktech.com/cw-tools/code-groups-trainer/ |
 | Koch method to learn Morse | Minimal Koch trainer, nothing to set up | https://stendec.io/morse/koch.html |
 | CW Checker | Records your sending and tells you how clean it is | https://tools.hamradioduo.com/cw-checker/ |
+| MorseSnap | Online Morse practice trainer and test, with a learning guide | https://morsesnap.com/practice |
 
 ## Translators
 
